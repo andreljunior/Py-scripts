@@ -1,0 +1,6 @@
+
+var = open(r'C:\Users\andre\Desktop\Diversos\Linguagem Python\teste.txt',mode = 'r')
+print(var.read())
+
+
+
